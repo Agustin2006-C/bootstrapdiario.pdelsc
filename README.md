@@ -1,0 +1,1 @@
+# bootstrapdiario.pdelsc
