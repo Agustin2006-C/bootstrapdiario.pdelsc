@@ -1,0 +1,41 @@
+/* Cabecera */
+header {
+    background-color: #e02121;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Noticias Destacadas */
+.card {
+    background-color: #2abbce8c;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.card-img-top {
+    border-radius: 20px;
+}
+
+/* Sección de Entretenimiento */
+.entretenimiento {
+    background-color: #8f827a8c;
+    border: 1px solid #ddd;
+    padding: 3em;
+    margin-bottom: 2em;
+}
+
+/* Sección de Deportes */
+.deportes {
+    background-color: #4d576d8c;
+    border: 1px solid #ddd;
+    padding: 3em;
+    margin-bottom: 2em;
+}
+
+/* Pie de Página */
+footer {
+    background-color: #1c7528;
+}
